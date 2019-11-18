@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am spamkuy on github.
+  * I am mamangzed (https://keybase.io/mamangzed) on keybase.
+  * I have a public key ASBYZfb76nHG3AkJWRd_yp4LU8F9lrk_gWoyxsjFyS_mUQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205865f6fbea71c6dc090959177fca9e0b53c17d96b93f816a32c6c8c5c92fe6510a",
+      "host": "keybase.io",
+      "kid": "01205865f6fbea71c6dc090959177fca9e0b53c17d96b93f816a32c6c8c5c92fe6510a",
+      "uid": "229f68e93ae6cf6e32c44f356fd50e19",
+      "username": "mamangzed"
+    },
+    "merkle_root": {
+      "ctime": 1574117570,
+      "hash": "84fe15adbac089b5003667820d6e060de4acdfe9ada2156fb96068c1b0e5c9b5ff6dfa52d9c837755d9e54ddd43bcd0c17ff4f8a8b0851e186dd3fa8c59022b2",
+      "hash_meta": "f8066979988787a726815fb67aa6393c10aaa9bac4d9c2abfd14a052d44670dc",
+      "seqno": 10130303
+    },
+    "service": {
+      "entropy": "Ytn9I3DlWmUhEzY52+L8+1+s",
+      "name": "github",
+      "username": "spamkuy"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574117543,
+  "expire_in": 504576000,
+  "prev": "574d8d63b439147baad6da4234148e1d90de97af26e57a85b13d9562b6f25a4b",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [ASBYZfb76nHG3AkJWRd_yp4LU8F9lrk_gWoyxsjFyS_mUQo](https://keybase.io/mamangzed), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWGX2++pxxtwJCVkXf8qeC1PBfZa5P4FqMsbIxckv5lEKp3BheWxvYWTESpcCC8QgV02NY7Q5FHuq1tpCNBSOHZDel68m5XqFsT2VYrbyWkvEIDY1otKEWLHaEh3rhRMa8/rDd4/IeUD7L55CsNllaYaJAgHCo3NpZ8RA+UFH1RXK4G8EeT7yh0Z8eZWRvhAeWcxs7/118dpMsraJAX9fws3XpsmOb91UouHvQDM9nx+8v66VamtFhir2BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH/qC7R2DBToHvWJSu4nVZzvIKIr6wEJLV8AKgnvmxxno3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/mamangzed
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id mamangzed
+```
